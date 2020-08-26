@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[user]
+	name = anon
+	email = anon
+[remote "origin"]
+	url = git@github.com:double-blindness/double-blindness.github.io.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
